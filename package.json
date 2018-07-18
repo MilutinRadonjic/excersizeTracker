@@ -1,0 +1,32 @@
+{
+  "name": "excercisetracker",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilutinRadonjic/excersizeTracker.git"
+  },
+  "keywords": [
+    "exercize",
+    "tracker",
+    "mongo",
+    "node.js",
+    "express"
+  ],
+  "author": "Milutin Radonjic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilutinRadonjic/excersizeTracker/issues"
+  },
+  "homepage": "https://github.com/MilutinRadonjic/excersizeTracker#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.4"
+  }
+}

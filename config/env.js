@@ -1,0 +1,1 @@
+module.exports = 'mongodb://admin:avikakote1@ds241121.mlab.com:41121/exercizetracker';
